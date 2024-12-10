@@ -1,6 +1,6 @@
 /**@author Jan  */
 //Hola
-package Ed;
+package Ed; /** Este es el paquete. */
 
 import java.util.Scanner;
 
